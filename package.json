@@ -12,7 +12,8 @@
     "babel-preset-react": "*"
   },
   "scripts": {
-    "build": "webpack",
+    "build": "[webpack] build --output public",
+
     "watch": "webpack -w"
   }
 }
