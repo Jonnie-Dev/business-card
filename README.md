@@ -1,4 +1,4 @@
-Solo Project - Profile Page built with React
+Solo project 1 - Business card
 
 Quick start:
 
