@@ -1,4 +1,4 @@
-Solo project 1 - Business card
+# Solo project 1 - Business card
 
 Quick start:
 
