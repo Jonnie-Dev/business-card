@@ -1,4 +1,4 @@
-# co4ca4d2b80b26faf4ee288d9
+Solo Project - Profile Page built with React
 
 Quick start:
 
