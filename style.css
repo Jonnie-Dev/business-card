@@ -124,7 +124,12 @@ a {
     display: flex;
     justify-content: center;
     gap: 24px;
-    
+}
+
+.footer img {
+    background: grey;
+    padding: 1px;
+    border-radius: 2px;
 }
 
 
